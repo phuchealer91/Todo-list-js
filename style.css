@@ -1,0 +1,25 @@
+html{
+  font-size: 62.5%;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  padding: 2rem;
+}
+.header h1{
+  font-size: 3rem;
+  color: white;
+}
+h2{
+  font-size: 3rem;
+  margin: 2rem 0;
+}
+.input-group input,.input-group button,.form-item input, .form-item button {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.form-item .list-group li{
+  font-size: 2rem;
+}
